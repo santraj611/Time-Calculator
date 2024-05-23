@@ -1,4 +1,4 @@
-A Time Calculator writtern in Python.
+A Time Calculator written in Python.
 
 #### run
 ```Python
